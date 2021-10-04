@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(231, 231, 231, 0.877);
+}
+ul >li {
+    display: inline;
+    font-family: roboto;
+    background-color: goldenrod;
+    font-weight: lighter;
+    word-spacing: 10px;
+}
+p {
+    letter-spacing: 4px;
+    word-spacing: 4px;
+    font-weight: bolder;
+    height: 100px;
+    width: 100px;
+    background: rgb(235, 197, 253);
+    color: rgb(14, 111, 238);
+    display: inline;
+}
+h3 {
+	color: red;
+	font-family: roboto;
+	text-align: start;
+}
+
+h1 {
+    color: red;
+    font-style: italic;
+    text-align: center;
+
+}
+#home {
+    color: darkred;
+    background-color: darkseagreen;
+    font-size: 80px;
+    letter-spacing: 6px;
+    word-spacing: 4px;
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+ol > li {
+    color: rgb(167, 0, 0);
+    font-style: italic;
+    height: 40px;
+    font-size: 19px;
+
+}
+div > ul {
+
+    color: rgb(5, 0, 0);
+    font-size: 20px;
+
+
+}
